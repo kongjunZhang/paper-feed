@@ -1,18 +1,32 @@
-# 关键词配置 - 核心词匹配
-# 格式: keyword1 AND keyword2 NOT excluded1 NOT excluded2
+  # ===== 通用医学图像分割 =====
+  medical image segmentation
+  medical imaging AND segmentation
+  biomedical image segmentation
 
-# ===== 息肉 =====
-polyp NOT semi-supervised NOT self-supervised NOT weakly-supervised
-colonoscopy NOT semi-supervised NOT self-supervised NOT weakly-supervised
+  # ===== 息肉/肠镜 =====
+  polyp
+  colonoscopy
+  Kvasir
+  CVC-ClinicDB
+  CVC-ColonDB
+  ETIS-Larib
 
-# ===== 乳腺超声 =====
-breast AND ultrasound NOT semi-supervised NOT self-supervised NOT weakly-supervised
-BUSI NOT semi-supervised NOT self-supervised
+  # ===== 乳腺超声 =====
+  breast AND ultrasound
+  breast AND segmentation
+  BUSI
+  breast lesion
 
-# ===== 皮肤病变 =====
-skin AND lesion NOT semi-supervised NOT self-supervised NOT weakly-supervised
-dermoscopy NOT semi-supervised NOT self-supervised NOT weakly-supervised
-melanoma AND segmentation NOT semi-supervised NOT self-supervised
+  # ===== 皮肤病变 =====
+  skin lesion
+  ISIC
+  skin cancer AND segmentation
 
-# ===== 腺体 =====
-gland AND segmentation NOT semi-supervised NOT self-supervised NOT weakly-supervised
+  # ===== 腺体 =====
+  gland segmentation
+  GlaS
+
+  # ===== 其他常见数据集 =====
+  Synapse
+  BraTS
+  LiTS
