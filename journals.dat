@@ -1,70 +1,66 @@
-# Medical Image Analysis 医学图像分析相关期刊
+# 一、主流天文相关期刊
 
 ## ===== 顶刊（中科院1区）=====
+# Nature
+http://feeds.nature.com/nature/rss/current
 
-# Medical Image Analysis (Elsevier)
-https://rss.sciencedirect.com/publication/science/13618415
+# The Astrophysical Journal (ApJ)
+https://iopscience.iop.org/journal/rss/0004-637X
 
-# IEEE Transactions on Medical Imaging (TMI)
-https://ieeexplore.ieee.org/rss/TOC42.XML
+# The Astrophysical Journal Letters (ApJL)
+https://iopscience.iop.org/journal/rss/2041-8205
 
-# IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI)
-https://ieeexplore.ieee.org/rss/TOC34.XML
+# The Astrophysical Journal Supplement Series (ApJS)
+https://iopscience.iop.org/journal/rss/0067-0049
 
-# Pattern Recognition (Elsevier)
-https://rss.sciencedirect.com/publication/science/00313203
+# The Astronomical Journal (AJ)
+https://iopscience.iop.org/journal/rss/1538-3881
 
-# Expert Systems with Applications (Elsevier)
-https://rss.sciencedirect.com/publication/science/09574174
+# Monthly Notices of the Royal Astronomical Society (MNRAS)
+#none
 
-# Knowledge-Based Systems (Elsevier)
-https://rss.sciencedirect.com/publication/science/09507051
+# Astronomy & Astrophysics (A&A)
+https://feeds.feedburner.com/edp_aa?format=xml
 
-# Neural Networks (Elsevier)
-https://rss.sciencedirect.com/publication/science/08936080
+# Publications of the Astronomical Society of the Pacific (PASP)
+https://iopscience.iop.org/journal/rss/1538-3873
 
-# Information Fusion (Elsevier)
-https://rss.sciencedirect.com/publication/science/15662535
+# Publications of the Astronomical Society of Japan (PASJ)
+#none
 
-## ===== 高质量期刊（中科院2区）=====
+# Research in Astronomy and Astrophysics (RAA)
+https://iopscience.iop.org/journal/rss/1674-4527
 
-# IEEE Journal of Biomedical and Health Informatics (JBHI)
-https://ieeexplore.ieee.org/rss/TOC6221020.XML
+# Journal of Cosmology and Astroparticle Physics (JCAP)
+https://iopscience.iop.org/journal/rss/1475-7516
 
-# IEEE Trans. on Image Processing (TIP)
-https://ieeexplore.ieee.org/rss/TOC83.XML
+## 二、综述 / 高影响天文期刊
 
-# IEEE Trans. on Biomedical Engineering (TBME)
-https://ieeexplore.ieee.org/rss/TOC10.XML
+# Annual Review of Astronomy and Astrophysics (ARA&A)
+https://www.annualreviews.org/rss/content/journals/astro/latestarticles?fmt=rss
 
-# Neurocomputing (Elsevier)
-https://rss.sciencedirect.com/publication/science/09252312
+# The Astronomy and Astrophysics Review (A&ARv)
+#none
 
-# Computers in Biology and Medicine (Elsevier)
-https://rss.sciencedirect.com/publication/science/00104825
+# Nature Astronomy (Nat. Astron.)
+https://www.nature.com/natastron.rss
 
-# Artificial Intelligence in Medicine (Elsevier)
-https://rss.sciencedirect.com/publication/science/09333657
+# Physical 
+https://feeds.aps.org/rss/recent/physics.xml
 
-# Engineering Applications of Artificial Intelligence (Elsevier)
-https://rss.sciencedirect.com/publication/science/09521976
+# Physical Review D (PRD)
+https://feeds.aps.org/rss/recent/prd.xml
 
-# Biomedical Signal Processing and Control (Elsevier)
-https://rss.sciencedirect.com/publication/science/17468094
+# Physical Review Letters (PRL)
+https://feeds.aps.org/rss/recent/prl.xml
 
-# NeuroImage (Elsevier)
-https://rss.sciencedirect.com/publication/science/10538119
-
-# Medical Physics (Wiley)
-https://aapm.onlinelibrary.wiley.com/feed/24734209/most-recent
 
 ## ===== 预印本（覆盖顶会）=====
 
-# arXiv - Computer Vision (覆盖 CVPR/ICCV/ECCV/MICCAI 等会议预印本)
-https://rss.arxiv.org/rss/cs.CV
+# arXiv - （整个 astro-ph 大类） (astro-ph)
+https://rss.arxiv.org/rss/astro-ph
 
-# arXiv - Image and Video Processing (医学影像相关)
-https://rss.arxiv.org/rss/eess.IV
+# arXiv High Energy
+https://rss.arxiv.org/rss/astro-ph.HE
 
-# arXiv - Machine Learning
-https://rss.arxiv.org/rss/cs.LG
+
