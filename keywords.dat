@@ -1,32 +1,72 @@
-  # ===== 通用医学图像分割 =====
-  medical image segmentation
-  medical imaging AND segmentation
-  biomedical image segmentation
+# ===== 通用关键词（适用于FRB和GRB研究） ===== 
+Fast Radio Burst
+Gamma-Ray Burst
+Transient Astronomy
+High-Energy Astrophysics
+Extragalactic Sources
+Radio Transients
+Cosmological Evolution
+Redshift Estimation
+Host Galaxy
+Dispersion Measure
+Afterglow Emission
 
-  # ===== 息肉/肠镜 =====
-  polyp
-  colonoscopy
-  Kvasir
-  CVC-ClinicDB
-  CVC-ColonDB
-  ETIS-Larib
+### ===== FRB特定关键词（快速射电暴相关）===== 
+FRB Progenitors
+FRB Origins
+FRB Diversity
+Repeating FRBs
+Non-Repeating FRBs
+FRB Luminosity Function
+FRB Formation Rate
+FRB Burst Energy
+FRB Brightness Temperature
+Magnetar Flares
+Neutron Star Mergers
+Dwarf Galaxy FRBs
+Star-Forming Regions
+Millisecond Flashes
+Pulsar-Like Bursts
 
-  # ===== 乳腺超声 =====
-  breast AND ultrasound
-  breast AND segmentation
-  BUSI
-  breast lesion
+### ===== GRB特定关键词（伽马暴相关）===== 
+GRB Progenitors
+GRB Origins
+GRB Diversity
+Long GRBs
+Short GRBs
+GRB Luminosity Function
+GRB Formation Rate
+GRB Energy Function
+Compact Binary Mergers
+Massive Collapsars
+Kilonova Association
+Prompt Emission
+GRB Redshift
+Standard Candles GRBs
+Cosmic GRB Rate
 
-  # ===== 皮肤病变 =====
-  skin lesion
-  ISIC
-  skin cancer AND segmentation
+### ===== 分类与多样性关键词===== 
+GRB Classification
+FRB Classification
+Burst Diversity
+Pulse Duration
+Spectral Index
+Peak Frequency
+Flux Density
+Fluence
+Boxcar Width
+Rest-Frame Width
+Temporal Width
 
-  # ===== 腺体 =====
-  gland segmentation
-  GlaS
-
-  # ===== 其他常见数据集 =====
-  Synapse
-  BraTS
-  LiTS
+### ===== 机器学习相关关键词（适用于两者）===== 
+Machine Learning FRBs
+Machine Learning GRBs
+Unsupervised Clustering
+Supervised Classification
+PCA-UMAP
+Feature Selection
+Burst Categorization
+Redshift Prediction ML
+Luminosity Function ML
+Progenitor Identification ML
+Self-Supervised Learning
